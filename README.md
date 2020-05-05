@@ -1,0 +1,2 @@
+# Sakila SQL Project
+This project uses some basic data from the Sakila Rental Database to answer a handful of questions provided by Udacity. The questions are answered using respective SQL queries, and I used the output of those queries to visualize the data using Matplotlib and Seaborn. These visualizations are the collected within 4 slides in the Keynote file, which has been exported as a PDF for the convenience of the Udacity project reviewer.
